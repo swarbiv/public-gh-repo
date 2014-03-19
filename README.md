@@ -1,4 +1,7 @@
-testproject
+Public GitHub Repository
 ===========
 
-testproject
+```BASH
+npm install crypto-js
+```
+
