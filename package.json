@@ -20,7 +20,6 @@
         "url": "http://opensource.org/licenses/BSD-3-Clause"
     }],
     "dependencies": {
-
     },
     "devDependencies": {
         "underscore": "~1.4.4",
@@ -32,7 +31,7 @@
         "fmd": "~0.0.1"
     },
     "scripts": {
-      "test": "vows --spec"
+      "test": "vows"
     },
     "keywords": ["Playing around"]
 }
